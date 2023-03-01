@@ -14,7 +14,7 @@ namespace workshop2_1 {
             int num5 = 0;
             int num6 = 0;
 
-            switch (agency){
+           /* switch (agency){
                 case "FBI":
                     Console.WriteLine("pass");
                     break;
@@ -28,6 +28,7 @@ namespace workshop2_1 {
                     Console.WriteLine("Error");
                     break;        
             }
+            */
                     if  (number > 99999 && number <= 999999 ) 
                     {
                         num1 = 0;
