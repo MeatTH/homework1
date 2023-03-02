@@ -104,7 +104,11 @@ namespace workshop2_1 {
                                         Console.WriteLine("false");
                                     }
                                 break;
-                        }
+                            default:
+                                Console.WriteLine("Error");
+                                break;                                
+                        }   
+
                     
         }
     }            
